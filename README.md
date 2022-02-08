@@ -1,7 +1,7 @@
 # review-C-Langage
 C言語のおさらい
 
-## プリント出力
+## １、プリント出力
 ~~~c
 #include<stdio.h>
 int main(void){
@@ -10,7 +10,7 @@ int main(void){
 }
 ~~~
 
-## 四則演算
+## ２，四則演算
 ~~~c
 #include<stdio.h>
 int main(void){
@@ -19,7 +19,7 @@ int main(void){
 }
 ~~~
 
-## 変数
+## ３，変数
 ~~~c
 #include<stdio.h>
 int main(void){
@@ -43,13 +43,13 @@ int main(void){
  }
 ~~~
 
-## 関数
+## ４，関数
 作成中
 ~~~c
 
 ~~~
 
-## ポインタ
+## ５，ポインタ
 作成中
 ~~~c
 
